@@ -36,5 +36,8 @@
 <project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.springframework,org.springframework"/>
 
 <project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.addon/com.idega.block.ldap"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.addon/com.idega.block.cal"/>
+
+
 </provider>
 </psf>
