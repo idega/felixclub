@@ -176,6 +176,13 @@
       <artifactId>com.idega.block.ldap</artifactId>
       <version>4.0-SNAPSHOT</version>
     </dependency>
+    
+    <!--  LEGACY STUFF -->
+    <dependency>
+      <groupId>com.idega.block.legacy</groupId>
+      <artifactId>com.idega.block.news</artifactId>
+      <version>4.0-SNAPSHOT</version>
+    </dependency>
   </dependencies>
 
   <distributionManagement>
