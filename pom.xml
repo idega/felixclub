@@ -4,12 +4,12 @@
   <parent>
   	<groupId>com.idega.block.addon</groupId>
   	<artifactId>com.idega.block.addon</artifactId>
-  	<version>4.0.0</version>
+  	<version>4.0.1</version>
   </parent>
   <groupId>com.idega.webapp.custom</groupId>
   <artifactId>felixclub</artifactId>
   <packaging>iwwar</packaging>
-  <version>4.0.0-SNAPSHOT</version>
+  <version>4.0.1-SNAPSHOT</version>
   <description>Custom ePlatform web application for ISI</description>
   <name>Felix Club</name>
   <inceptionYear>2007</inceptionYear>
