@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <parent>
   	<groupId>com.idega.block.addon</groupId>
@@ -9,7 +9,7 @@
   <groupId>com.idega.webapp.custom</groupId>
   <artifactId>felixclub</artifactId>
   <packaging>iwwar</packaging>
-  <version>4.0.2-SNAPSHOT</version>
+  <version>4.0.2</version>
   <description>Custom ePlatform web application for ISI</description>
   <name>Felix Club</name>
   <inceptionYear>2007</inceptionYear>
@@ -25,6 +25,7 @@
      -->
     <connection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</connection>
     <developerConnection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</developerConnection>
+    <tag>felixclub-4_0_2</tag>
   </scm>
 
   <dependencies>
@@ -247,7 +248,7 @@
           <archive>
 			<manifest>
               <!--addClasspath>true</addClasspath-->
-              <addExtensions/>
+              <addExtensions />
             </manifest>
 			<manifestEntries>
 				<!--Implementation-Vendor>${pom.organization.name}</Implementation-Vendor-->
