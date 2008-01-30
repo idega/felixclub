@@ -9,7 +9,7 @@
   <groupId>com.idega.webapp.custom</groupId>
   <artifactId>felixclub</artifactId>
   <packaging>iwwar</packaging>
-  <version>4.0.2</version>
+  <version>4.0.3-SNAPSHOT</version>
   <description>Custom ePlatform web application for ISI</description>
   <name>Felix Club</name>
   <inceptionYear>2007</inceptionYear>
@@ -23,9 +23,8 @@
     <connection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</connection>
     <developerConnection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</developerConnection> 
      -->
-    <connection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</connection>
-    <developerConnection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</developerConnection>
-    <tag>felixclub-4_0_2</tag>
+    <connection>scm:cvs:ext:civilis@code.idega.com:/idega/cvs:com.idega.webapp.custom/felixclub/</connection>
+    <developerConnection>scm:cvs:ext:civilis@code.idega.com:/idega/cvs:com.idega.webapp.custom/felixclub/</developerConnection>
   </scm>
 
   <dependencies>
