@@ -244,12 +244,12 @@
 				<artifactId>com.idega.maven.webapp</artifactId>
 				<extensions>true</extensions>
 				<configuration>
-					<webResources>
+					<!--  <webResources>
 						<resource>
 							<directory>resources</directory>
 							<targetPath>resources</targetPath>
 						</resource>
-					</webResources>
+					</webResources>-->
 					<archive>
 						<manifest>
 							<!--addClasspath>true</addClasspath-->
